@@ -1,6 +1,6 @@
 # Curso HTML & CSS3 - Curso em Video 💻
 
- página criada com HTML & CSS, inserindo imagens e aplicando efeito Parallax.
+ página criada com HTML & CSS, inserindo imagens e aplicando efeito  .
 
 ## Motivação
 
@@ -9,16 +9,16 @@
   Página de Literatura de cordel contemplando as poesias de Milton Duarte
 
   ## Header (cabeçalho) e Poesia
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/main/assets/imagens/Tela1.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
   
   ## Poesia com imagem e efeito parallax
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/main/assets/imagens/Tela2.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
 
   ## Poesia com imagem e efeito parallax
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/main/assets/imagens/Tela3.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
 
   ## Poesia e footer (rodapé)
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/main/assets/imagens/Tela4.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
 
 <div>
   <p style='font-size: 22px'>
