@@ -12,13 +12,13 @@
   ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
   
   ## Poesia com imagem e efeito parallax
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela2.png)
 
   ## Poesia com imagem e efeito parallax
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela3.png)
 
   ## Poesia e footer (rodapé)
-  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela1.png)
+  ![alt text](https://github.com/MaiconCampbell/HTML---CSS3---projeto-02/blob/master/assets/img/Tela4.png)
 
 <div>
   <p style='font-size: 22px'>
